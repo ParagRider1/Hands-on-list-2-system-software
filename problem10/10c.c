@@ -1,3 +1,16 @@
+/*
+============================================================================
+Name : 10c.c
+Author : Parag Piprewar
+Description : Write a separate program using sigaction system call to catch the following signals.
+a. SIGSEGV
+b. SIGINT
+c. SIGFPE
+Date: 30th September 2025
+============================================================================
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <signal.h>

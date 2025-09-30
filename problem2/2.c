@@ -1,3 +1,14 @@
+/*
+============================================================================
+Name : 2.c
+Author : Parag Piprewar
+Description : Write a program to print the system resource limits. Use getrlimit system call
+Date: 30th September 2025
+============================================================================
+*/
+
+
+
 // resource_limits
 #include <stdio.h>
 #include <stdlib.h>

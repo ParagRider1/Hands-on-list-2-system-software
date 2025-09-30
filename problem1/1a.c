@@ -1,3 +1,18 @@
+/*
+============================================================================
+Name : 1a.c
+Author : Parag Piprewar
+Description : Write a separate program (for each time domain) to set a interval timer in 10sec and
+10micro second
+a. ITIMER_REAL
+b. ITIMER_VIRTUAL
+c. ITIMER_PROF
+Date: 30th September 2025
+============================================================================
+*/
+
+
+
 // real_timer
 #include <stdio.h>
 #include <stdlib.h>

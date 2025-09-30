@@ -1,3 +1,14 @@
+/*
+============================================================================
+Name : 6.c
+Author : Parag Piprewar
+Description : Write a simple program to create three threads
+Date: 30th September 2025
+============================================================================
+*/
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>

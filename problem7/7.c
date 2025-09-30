@@ -1,3 +1,13 @@
+/*
+============================================================================
+Name : 7.c
+Author : Parag Piprewar
+Description : Write a simple program to print the created thread ids
+Date: 30th September 2025
+============================================================================
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
